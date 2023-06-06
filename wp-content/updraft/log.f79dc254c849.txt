@@ -1,0 +1,348 @@
+0000.001 (0) Opened log file at time: Sun, 04 Jun 2023 00:36:24 +0000 on http://sportopia.local
+0000.012 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT LAPTOP-MKRRS3VV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.2M | 14M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.018 (0) Free space on disk containing Updraft's temporary directory: 148426 MB
+0000.031 (0) Tasks: Backup files: 1 (schedule: twicedaily) Backup DB:  (schedule: twicedaily)
+0000.037 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.058 (0) Semaphore (fd, wp_options) being initialised
+0000.091 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.114 (0) Set semaphore last lock (fd) time to 2023-06-04 00:36:24
+0000.124 (0) Semaphore lock (fd) complete
+0000.159 (0) Backup run: resumption=0, nonce=f79dc254c849, file_nonce=f79dc254c849 begun at=1685838984 (0s ago), job type=backup
+0000.175 (0) Scheduling a resumption (1) after 300 seconds (1685839284) in case this run gets aborted
+0000.230 (0) Checking if we have a zip executable available
+0000.243 (0) Creation of backups of directories: beginning
+0000.263 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.296 (0) Total entities for the zip file: 878 directories, 4923 files (0 skipped as non-modified), 87.2 MB
+0002.348 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.382 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.411 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.443 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.476 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.490 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.5 MB, 4923 files batched, 540 (540) added so far); re-opening (prior size: 0 KB)
+0013.246 (0) A useful amount of data was added after this amount of zip processing: 13.7 s (normalised: 13.4 s, rate: 1905.5 KB/s)
+0013.288 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 600 files added (on-disk size: 7181 KB)
+0013.326 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 700 files added (on-disk size: 7181 KB)
+0013.356 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 800 files added (on-disk size: 7181 KB)
+0013.398 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 900 files added (on-disk size: 7181 KB)
+0013.447 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1000 files added (on-disk size: 7181 KB)
+0013.484 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1100 files added (on-disk size: 7181 KB)
+0013.514 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1200 files added (on-disk size: 7181 KB)
+0013.544 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1300 files added (on-disk size: 7181 KB)
+0013.590 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1400 files added (on-disk size: 7181 KB)
+0013.636 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1500 files added (on-disk size: 7181 KB)
+0013.656 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.1 MB, 4923 files batched, 1001 (1541) added so far); re-opening (prior size: 7181 KB)
+0027.453 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1600 files added (on-disk size: 12682.1 KB)
+0027.500 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1700 files added (on-disk size: 12682.1 KB)
+0027.543 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1800 files added (on-disk size: 12682.1 KB)
+0027.577 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 1900 files added (on-disk size: 12682.1 KB)
+0027.630 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2000 files added (on-disk size: 12682.1 KB)
+0027.672 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2100 files added (on-disk size: 12682.1 KB)
+0027.716 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2200 files added (on-disk size: 12682.1 KB)
+0027.751 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2300 files added (on-disk size: 12682.1 KB)
+0027.790 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2400 files added (on-disk size: 12682.1 KB)
+0027.834 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2500 files added (on-disk size: 12682.1 KB)
+0027.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 4923 files batched, 972 (2513) added so far); re-opening (prior size: 12682.1 KB)
+0031.057 (0) A useful amount of data was added after this amount of zip processing: 4.5 s (normalised: 4.5 s, rate: 5733.3 KB/s)
+0031.070 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.5036389827728, normalised_time=4.4651480655948, max_time=31.063978910446, data points known=1, old_max_bytes=26214400, new_max_bytes=109423950)
+0031.129 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2600 files added (on-disk size: 20000.7 KB)
+0031.174 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2700 files added (on-disk size: 20000.7 KB)
+0031.217 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2800 files added (on-disk size: 20000.7 KB)
+0031.264 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 2900 files added (on-disk size: 20000.7 KB)
+0031.317 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3000 files added (on-disk size: 20000.7 KB)
+0031.366 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3100 files added (on-disk size: 20000.7 KB)
+0031.422 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3200 files added (on-disk size: 20000.7 KB)
+0031.477 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3300 files added (on-disk size: 20000.7 KB)
+0031.533 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3400 files added (on-disk size: 20000.7 KB)
+0031.581 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3500 files added (on-disk size: 20000.7 KB)
+0031.595 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.1 MB, 4923 files batched, 1001 (3514) added so far); re-opening (prior size: 20000.7 KB)
+0033.640 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3600 files added (on-disk size: 22708.4 KB)
+0033.673 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3700 files added (on-disk size: 22708.4 KB)
+0033.705 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3800 files added (on-disk size: 22708.4 KB)
+0033.737 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 3900 files added (on-disk size: 22708.4 KB)
+0033.791 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4000 files added (on-disk size: 22708.4 KB)
+0033.842 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4100 files added (on-disk size: 22708.4 KB)
+0033.891 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4200 files added (on-disk size: 22708.4 KB)
+0033.937 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4300 files added (on-disk size: 22708.4 KB)
+0033.978 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4400 files added (on-disk size: 22708.4 KB)
+0034.015 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4500 files added (on-disk size: 22708.4 KB)
+0034.027 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.5 MB, 4923 files batched, 1001 (4515) added so far); re-opening (prior size: 22708.4 KB)
+0036.467 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4600 files added (on-disk size: 26197.3 KB)
+0036.511 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4700 files added (on-disk size: 26197.3 KB)
+0036.556 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4800 files added (on-disk size: 26197.3 KB)
+0036.623 (0) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.tmp: 4900 files added (on-disk size: 26197.3 KB)
+0037.444 (0) Creating zip file manifest (backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip.list-temp.tmp)
+0037.483 (0) Successfully created zip file manifest (size: 391087)
+0037.926 (0) Created plugins zip (0) - 27162.9 KB in 37.6 s (721.5 KB/s) (sha1: 971195bacab2efe03387bc8f79f6485b1f9e5fe9, sha256: 2c1f8d153706e9f9c0e7c1ac8fbf8d0d1051f991eda50c7a4b03d0adb83f051a)
+0037.957 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0037.962 (0) Beginning dispatch of backup to remote (email)
+0037.980 (0) [Warning] Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: Cette archive de sauvegarde pèse 26.5 Mo. Tenter de l’envoyer par e-mail risque d’échouer (peu de serveurs de messagerie permettent l’ajout de pièces jointes d'un tel volume). Vous devriez donc choisir une méthode différente de stockage à distance.
+0037.988 (0) Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: email to: dev-e...
+28264.544 (1) Opened log file at time: Sun, 04 Jun 2023 08:27:28 +0000 on http://sportopia.local
+28264.554 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT LAPTOP-MKRRS3VV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.3M | 14M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+28264.564 (1) Free space on disk containing Updraft's temporary directory: 148384.6 MB
+28264.595 (1) Requesting backup semaphore lock (f79dc254c849)
+28264.614 (1) [Debug] Lock option (updraft_lock_f79dc254c849, wp_options) was created in the database
+28264.624 (1) [Info] Lock (updraft_lock_f79dc254c849, wp_options) acquired after initialising the database
+28264.643 (1) Backup run: resumption=1, nonce=f79dc254c849, file_nonce=f79dc254c849 begun at=1685838984 (28265s ago), job type=backup, previous check-in=37.37s
+28264.651 (1) Long time past since expected resumption time: approx expected=1685839322, now=1685867249, diff=27927
+28264.667 (1) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+28264.686 (1) Scheduling a resumption (2) after 300 seconds (1685867549) in case this run gets aborted
+28264.726 (1) Checking if we have a zip executable available
+28264.736 (1) Creation of backups of directories: had begun; will resume
+28264.762 (1) Beginning creation of dump of plugins (split every: 400 MB)
+28264.774 (1) backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: this file has already been created (age: 28228 s)
+28264.800 (1) Beginning creation of dump of themes (split every: 400 MB)
+28269.064 (1) Total entities for the zip file: 216 directories, 1161 files (0 skipped as non-modified), 34.4 MB
+28269.096 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+28269.573 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 100 files added (on-disk size: 33.4 KB)
+28269.630 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 200 files added (on-disk size: 33.4 KB)
+28269.715 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 300 files added (on-disk size: 33.4 KB)
+28269.763 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 400 files added (on-disk size: 33.4 KB)
+28269.817 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 500 files added (on-disk size: 33.4 KB)
+28269.871 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 600 files added (on-disk size: 33.4 KB)
+28269.936 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 700 files added (on-disk size: 33.4 KB)
+28269.990 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 800 files added (on-disk size: 33.4 KB)
+28270.049 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 900 files added (on-disk size: 33.4 KB)
+28270.104 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 1000 files added (on-disk size: 33.4 KB)
+28270.114 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (27.9 MB, 1161 files batched, 1001 (1002) added so far); re-opening (prior size: 33.4 KB)
+28320.750 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.tmp: 1100 files added (on-disk size: 11991.7 KB)
+28325.949 (1) Creating zip file manifest (backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip.list-temp.tmp)
+28325.975 (1) Successfully created zip file manifest (size: 82243)
+28326.513 (1) Created themes zip (0) - 17956.2 KB in 61.7 s (291.2 KB/s) (sha1: 43d4c721852ef693ecd93b6a6ad0372f9c2ab2dc, sha256: f49a0b3dbc32d69c2cc67245c5f9e60ccb6f15cd5c5d467e9d9fdb3e912c251b)
+28326.567 (1) Cloud backup selection (1/1): email with instance (1/1) (last)
+28326.579 (1) Beginning dispatch of backup to remote (email)
+28326.595 (1) Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip: email to: dev-e...
+28576.235 (1) Recording as successfully uploaded: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip
+28576.362 (1) Deleting local file: backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip: OK
+28576.477 (1) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+28576.497 (1) Looking for candidates to backup in: C:\Users\amrani\Local Sites\sportopia\app\public/wp-content/uploads
+28576.506 (1) finding files: 2023: adding to list (1)
+28576.519 (1) finding files: elementor: adding to list (2)
+28576.532 (1) Beginning creation of dump of uploads (split every: 400 MB)
+28576.974 (1) Total entities for the zip file: 5 directories, 335 files (0 skipped as non-modified), 118.6 MB
+28577.031 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+28577.075 (1) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+28577.118 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 104.4 MB added on this batch (104.5 MB, 335 files batched, 286 (286) added so far); re-opening (prior size: 0 KB)
+28753.711 (2) Opened log file at time: Sun, 04 Jun 2023 08:35:38 +0000 on http://sportopia.local
+28753.723 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT LAPTOP-MKRRS3VV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.3M | 14M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+28753.733 (2) Free space on disk containing Updraft's temporary directory: 148831.7 MB
+28753.761 (2) Requesting backup semaphore lock (f79dc254c849)
+28753.774 (2) [Info] Lock (updraft_lock_f79dc254c849, wp_options) acquired
+28753.789 (2) Backup run: resumption=2, nonce=f79dc254c849, file_nonce=f79dc254c849 begun at=1685838984 (28754s ago), job type=backup, previous check-in=61.36s
+28753.802 (2) Scheduling a resumption (3) after 300 seconds (1685868038) in case this run gets aborted
+28753.866 (2) Checking if we have a zip executable available
+28753.872 (2) Creation of backups of directories: had begun; will resume
+28753.888 (2) Beginning creation of dump of plugins (split every: 400 MB)
+28753.897 (2) backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: this file has already been created (age: 28717 s)
+28753.917 (2) Beginning creation of dump of themes (split every: 400 MB)
+28753.931 (2) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+28753.939 (2) Looking for candidates to backup in: C:\Users\amrani\Local Sites\sportopia\app\public/wp-content/uploads
+28753.946 (2) finding files: 2023: adding to list (1)
+28753.954 (2) finding files: elementor: adding to list (2)
+28753.960 (2) Beginning creation of dump of uploads (split every: 400 MB)
+28753.969 (2) File exists (C:\Users\amrani\Local Sites\sportopia\app\public/wp-content/updraft/backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.tmp), but was not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1685867561, time_now=1685867738, diff=177)
+28753.977 (2) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.tmp
+28754.097 (2) Total entities for the zip file: 5 directories, 335 files (0 skipped as non-modified), 118.6 MB
+28754.135 (2) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+28754.169 (2) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+28754.210 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 104.4 MB added on this batch (104.5 MB, 335 files batched, 286 (286) added so far); re-opening (prior size: 0 KB)
+28757.004 (2) A useful amount of data was added after this amount of zip processing: 3.5 s (normalised: 3.4 s, rate: 30996.1 KB/s)
+28757.017 (2) Performance is good - will increase the amount of data we attempt to batch (time=3.450756072998, normalised_time=3.4475093497167, max_time=61, data points known=2, old_max_bytes=109423950, new_max_bytes=209715200)
+28757.034 (2) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.tmp: 300 files added (on-disk size: 107017 KB)
+28760.863 (2) Creating zip file manifest (backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip.list-temp.tmp)
+28760.873 (2) Successfully created zip file manifest (size: 25866)
+28765.137 (2) Created uploads zip (0) - 121463.6 KB in 11.1 s (10894.1 KB/s) (sha1: b77024f56cee64281657178dd4fb5c6a00052c59, sha256: 914743101c9f6eff8f46ade9031209bb25f11a1176ca2cb2b2194cbefbfd666d)
+28765.313 (2) Cloud backup selection (1/1): email with instance (1/1) (last)
+28765.421 (2) Beginning dispatch of backup to remote (email)
+28765.582 (2) [Warning] Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip: Cette archive de sauvegarde pèse 118.6 Mo. Tenter de l’envoyer par e-mail risque d’échouer (peu de serveurs de messagerie permettent l’ajout de pièces jointes d'un tel volume). Vous devriez donc choisir une méthode différente de stockage à distance.
+28765.592 (2) Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip: email to: dev-e...
+29054.766 (3) Opened log file at time: Sun, 04 Jun 2023 08:40:39 +0000 on http://sportopia.local
+29054.773 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT LAPTOP-MKRRS3VV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.3M | 14M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+29054.781 (3) Free space on disk containing Updraft's temporary directory: 149004.6 MB
+29054.789 (3) Requesting backup semaphore lock (f79dc254c849)
+29054.802 (3) [Info] Lock (updraft_lock_f79dc254c849, wp_options) acquired
+29054.816 (3) Backup run: resumption=3, nonce=f79dc254c849, file_nonce=f79dc254c849 begun at=1685838984 (29055s ago), job type=backup, previous check-in=7.14s
+29054.829 (3) Scheduling a resumption (4) after 300 seconds (1685868339) in case this run gets aborted
+29054.852 (3) Checking if we have a zip executable available
+29054.858 (3) Creation of backups of directories: had begun; will resume
+29054.883 (3) Beginning creation of dump of plugins (split every: 400 MB)
+29054.889 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: this file has already been created (age: 29018 s)
+29054.907 (3) Beginning creation of dump of themes (split every: 400 MB)
+29054.925 (3) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+29054.933 (3) Looking for candidates to backup in: C:\Users\amrani\Local Sites\sportopia\app\public/wp-content/uploads
+29054.941 (3) finding files: 2023: adding to list (1)
+29054.949 (3) finding files: elementor: adding to list (2)
+29054.954 (3) Beginning creation of dump of uploads (split every: 400 MB)
+29054.959 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip: this file has already been created (age: 294 s)
+29055.008 (3) Beginning backup of other directories found in the content directory (index: 0)
+29055.014 (3) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+29055.021 (3) Looking for candidates to backup in: C:\Users\amrani\Local Sites\sportopia\app\public/wp-content
+29055.027 (3) finding files: cache: skipping: excluded by options
+29055.032 (3) finding files: index.php: adding to list (1)
+29055.038 (3) finding files: languages: adding to list (2)
+29055.044 (3) finding files: plugins: skipping: this is the plugins directory
+29055.049 (3) finding files: themes: skipping: this is the themes directory
+29055.056 (3) finding files: updraft: skipping: this is the updraft directory
+29055.063 (3) finding files: upgrade: skipping: excluded by options
+29055.068 (3) finding files: uploads: skipping: this is the uploads directory
+29055.118 (3) Total entities for the zip file: 3 directories, 171 files (0 skipped as non-modified), 5.2 MB
+29055.155 (3) Zip: backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+29056.800 (3) Creating zip file manifest (backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip.list-temp.tmp)
+29056.808 (3) Successfully created zip file manifest (size: 12149)
+29056.860 (3) Created others zip (0) - 1510.3 KB in 1.8 s (850.2 KB/s) (sha1: afbbdd199f65bfc715471a130fbfb93d48389d9a, sha256: ac2944a14ef25c271884f65d9f69053d3cf6431ec91f9fa6314e8ab470352e1e)
+29056.881 (3) Cloud backup selection (1/1): email with instance (1/1) (last)
+29056.886 (3) Beginning dispatch of backup to remote (email)
+29056.893 (3) Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip: email to: dev-e...
+29065.402 (3) Recording as successfully uploaded: backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip
+29065.435 (3) Deleting local file: backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip: OK
+29065.478 (3) Saving backup status to database (elements: 8)
+29065.496 (3) Resuming creation of database dump (WordPress DB)
+29065.503 (3) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+29065.519 (3) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+29066.001 (3) Binary mysqldump: error (code: 2)
+29066.013 (3) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqldump.exe
+29066.246 (3) Binary mysqldump: error (code: 2)
+29066.421 (3) Table wp_options: Total expected rows (via COUNT): 239
+29066.427 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29066.483 (3) Table wp_options: Rows added in this batch (next record: 359): 235 (uncompressed bytes in this segment=1250195) in 0.10 seconds
+29066.519 (3) Table wp_options: finishing file(s) (2, 187.2 KB)
+29066.546 (3) Table wp_users: Total expected rows (via COUNT): 1
+29066.553 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29066.569 (3) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1382) in 0.03 seconds
+29066.595 (3) Table wp_users: finishing file(s) (2, 0.6 KB)
+29066.629 (3) Table wp_usermeta: Total expected rows (via COUNT): 25
+29066.640 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29066.679 (3) Table wp_usermeta: Rows added in this batch (next record: 25): 25 (uncompressed bytes in this segment=4536) in 0.06 seconds
+29066.748 (3) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+29066.801 (3) Table wp_commentmeta: Total expected rows (via COUNT): 0
+29066.818 (3) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.03 seconds
+29066.858 (3) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+29066.883 (3) Table wp_comments: Total expected rows (via COUNT): 1
+29066.890 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29066.905 (3) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2141) in 0.03 seconds
+29066.932 (3) Table wp_comments: finishing file(s) (2, 0.8 KB)
+29066.996 (3) Table wp_links: Total expected rows (via COUNT): 0
+29067.015 (3) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.06 seconds
+29067.043 (3) Table wp_links: finishing file(s) (2, 0.5 KB)
+29067.071 (3) Table wp_postmeta: Total expected rows (via COUNT): 176
+29067.080 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29067.097 (3) Table wp_postmeta: Rows added in this batch (next record: 272): 176 (uncompressed bytes in this segment=78230) in 0.03 seconds
+29067.135 (3) Table wp_postmeta: finishing file(s) (2, 7.5 KB)
+29067.178 (3) Table wp_posts: Total expected rows (via COUNT): 60
+29067.184 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29067.202 (3) Table wp_posts: Rows added in this batch (next record: 65): 60 (uncompressed bytes in this segment=35451) in 0.04 seconds
+29067.251 (3) Table wp_posts: finishing file(s) (2, 6.1 KB)
+29067.272 (3) Table wp_term_relationships: Total expected rows (approximate): 5
+29067.325 (3) Table wp_term_relationships: Rows added in this batch (next record: 100000): 5 (uncompressed bytes in this segment=754) in 0.05 seconds
+29067.359 (3) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+29067.393 (3) Table wp_term_taxonomy: Total expected rows (via COUNT): 2
+29067.409 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29067.438 (3) Table wp_term_taxonomy: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=957) in 0.06 seconds
+29067.469 (3) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+29067.496 (3) Table wp_termmeta: Total expected rows (via COUNT): 0
+29067.509 (3) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.02 seconds
+29067.546 (3) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+29067.566 (3) Table wp_terms: Total expected rows (via COUNT): 2
+29067.572 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29067.587 (3) Table wp_terms: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=771) in 0.02 seconds
+29067.612 (3) Table wp_terms: finishing file(s) (2, 0.4 KB)
+29067.637 (3) Table wp_e_events: Total expected rows (via COUNT): 10
+29067.644 (3) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+29067.652 (3) Table wp_e_events: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=2534) in 0.02 seconds
+29067.681 (3) Table wp_e_events: finishing file(s) (2, 0.7 KB)
+29067.687 (3) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\amrani\Local Sites\sportopia\app\public/wp-content/updraft/backup_2023-06-04-0036_Sportopia_f79dc254c849-db.gz (line 1976, C:\Users\amrani\Local Sites\sportopia\app\public\wp-content\plugins\updraftplus\backup.php)
+29067.699 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_options.table.tmpr360.gz (1/13/fopen): adding to final database dump
+29067.714 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_options.table.gz (2/13/fopen): adding to final database dump
+29067.722 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_users.table.tmpr2.gz (3/13/fopen): adding to final database dump
+29067.742 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_users.table.gz (4/13/fopen): adding to final database dump
+29067.748 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_usermeta.table.tmpr26.gz (5/13/fopen): adding to final database dump
+29067.755 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_usermeta.table.gz (6/13/fopen): adding to final database dump
+29067.761 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_commentmeta.table.tmpr0.gz (7/13/fopen): adding to final database dump
+29067.766 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_commentmeta.table.gz (8/13/fopen): adding to final database dump
+29067.773 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_comments.table.tmpr2.gz (9/13/fopen): adding to final database dump
+29067.778 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_comments.table.gz (10/13/fopen): adding to final database dump
+29067.785 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_links.table.tmpr0.gz (11/13/fopen): adding to final database dump
+29067.795 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_links.table.gz (12/13/fopen): adding to final database dump
+29067.802 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_postmeta.table.tmpr273.gz (13/13/fopen): adding to final database dump
+29067.807 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_postmeta.table.gz (14/13/fopen): adding to final database dump
+29067.814 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_posts.table.tmpr66.gz (15/13/fopen): adding to final database dump
+29067.823 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_posts.table.gz (16/13/fopen): adding to final database dump
+29067.828 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_term_relationships.table.tmpr100001.gz (17/13/fopen): adding to final database dump
+29067.834 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_term_relationships.table.gz (18/13/fopen): adding to final database dump
+29067.842 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_term_taxonomy.table.tmpr4.gz (19/13/fopen): adding to final database dump
+29067.849 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_term_taxonomy.table.gz (20/13/fopen): adding to final database dump
+29067.857 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_termmeta.table.tmpr0.gz (21/13/fopen): adding to final database dump
+29067.863 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_termmeta.table.gz (22/13/fopen): adding to final database dump
+29067.868 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_terms.table.tmpr4.gz (23/13/fopen): adding to final database dump
+29067.875 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_terms.table.gz (24/13/fopen): adding to final database dump
+29067.883 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_e_events.table.tmpr11.gz (25/13/fopen): adding to final database dump
+29067.891 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db-table-wp_e_events.table.gz (26/13/fopen): adding to final database dump
+29067.921 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db.gz: finished writing out complete database file (207.3 KB)
+29067.960 (3) Total database tables backed up: 13 (backup_2023-06-04-0036_Sportopia_f79dc254c849-db.gz, size: 212365, sha1: 84f01b0ddb55c2286babae79024724c7f32fffd9, sha256: 1b0ef54d0c8aa8a35c226110880aa4f8db3b4d195baf9aa9b7cb52bc9125a61e)
+29067.994 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+29068.001 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip: themes: This file has already been successfully uploaded
+29068.010 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+29068.019 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip: others: This file has already been successfully uploaded
+29068.025 (3) backup_2023-06-04-0036_Sportopia_f79dc254c849-db.gz: db: This file has not yet been successfully uploaded: will queue
+29068.032 (3) Saving backup history. Total backup size: 164.4 MB
+29068.048 (3) Requesting upload of the files that have not yet been successfully uploaded (3)
+29068.070 (3) Cloud backup selection (1/1): email with instance (1/1) (last)
+29068.076 (3) Beginning dispatch of backup to remote (email)
+29068.082 (3) [Warning] Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: Cette archive de sauvegarde pèse 26.5 Mo. Tenter de l’envoyer par e-mail risque d’échouer (peu de serveurs de messagerie permettent l’ajout de pièces jointes d'un tel volume). Vous devriez donc choisir une méthode différente de stockage à distance.
+29068.090 (3) Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: email to: dev-e...
+30949.757 (4) Opened log file at time: Sun, 04 Jun 2023 09:12:14 +0000 on http://sportopia.local
+30949.767 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT LAPTOP-MKRRS3VV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.3M | 14M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+30949.778 (4) Free space on disk containing Updraft's temporary directory: 148791.2 MB
+30949.787 (4) Requesting backup semaphore lock (f79dc254c849)
+30949.802 (4) [Info] Lock (updraft_lock_f79dc254c849, wp_options) acquired
+30949.819 (4) Backup run: resumption=4, nonce=f79dc254c849, file_nonce=f79dc254c849 begun at=1685838984 (30950s ago), job type=backup, previous check-in=12.9s
+30949.825 (4) Long time past since expected resumption time: approx expected=1685868352.1, now=1685869934.2, diff=1582.1
+30949.833 (4) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+30949.849 (4) Scheduling a resumption (5) after 300 seconds (1685870234) in case this run gets aborted
+30949.866 (4) Checking if we have a zip executable available
+30949.873 (4) Creation of backups of directories: already finished
+30949.880 (4) Saving backup status to database (elements: 8)
+30949.906 (4) Database dump (WordPress DB): Creation was completed already
+30949.915 (4) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+30949.938 (4) backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+30949.947 (4) backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip: themes: This file has already been successfully uploaded
+30949.953 (4) backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+30949.961 (4) backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip: others: This file has already been successfully uploaded
+30949.969 (4) backup_2023-06-04-0036_Sportopia_f79dc254c849-db.gz: db: This file has not yet been successfully uploaded: will queue
+30949.976 (4) Saving backup history. Total backup size: 164.4 MB
+30949.993 (4) Requesting upload of the files that have not yet been successfully uploaded (3)
+30950.001 (4) Cloud backup selection (1/1): email with instance (1/1) (last)
+30950.007 (4) Beginning dispatch of backup to remote (email)
+30950.015 (4) [Warning] Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: Cette archive de sauvegarde pèse 26.5 Mo. Tenter de l’envoyer par e-mail risque d’échouer (peu de serveurs de messagerie permettent l’ajout de pièces jointes d'un tel volume). Vous devriez donc choisir une méthode différente de stockage à distance.
+30950.024 (4) Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: email to: dev-e...
+151432.362 (5) Opened log file at time: Mon, 05 Jun 2023 18:40:16 +0000 on http://sportopia.local
+151432.373 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT LAPTOP-MKRRS3VV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.3M | 16M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+151432.380 (5) Free space on disk containing Updraft's temporary directory: 146880.7 MB
+151432.411 (5) Requesting backup semaphore lock (f79dc254c849)
+151432.424 (5) [Info] Lock (updraft_lock_f79dc254c849, wp_options) acquired
+151432.440 (5) Backup run: resumption=5, nonce=f79dc254c849, file_nonce=f79dc254c849 begun at=1685838984 (151432s ago), job type=backup
+151432.446 (5) Long time past since expected resumption time: approx expected=1685870234.2, now=1685990416.8, diff=120182.6
+151432.453 (5) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+151432.468 (5) Scheduling a resumption (6) after 300 seconds (1685990716) in case this run gets aborted
+151432.539 (5) Checking if we have a zip executable available
+151432.545 (5) Creation of backups of directories: already finished
+151432.552 (5) Saving backup status to database (elements: 8)
+151432.568 (5) Database dump (WordPress DB): Creation was completed already
+151432.575 (5) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+151432.601 (5) backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+151432.610 (5) backup_2023-06-04-0036_Sportopia_f79dc254c849-themes.zip: themes: This file has already been successfully uploaded
+151432.619 (5) backup_2023-06-04-0036_Sportopia_f79dc254c849-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+151432.627 (5) backup_2023-06-04-0036_Sportopia_f79dc254c849-others.zip: others: This file has already been successfully uploaded
+151432.637 (5) backup_2023-06-04-0036_Sportopia_f79dc254c849-db.gz: db: This file has not yet been successfully uploaded: will queue
+151432.647 (5) Saving backup history. Total backup size: 164.4 MB
+151432.667 (5) Requesting upload of the files that have not yet been successfully uploaded (3)
+151432.676 (5) Cloud backup selection (1/1): email with instance (1/1) (last)
+151432.686 (5) Beginning dispatch of backup to remote (email)
+151432.698 (5) [Warning] Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: Cette archive de sauvegarde pèse 26.5 Mo. Tenter de l’envoyer par e-mail risque d’échouer (peu de serveurs de messagerie permettent l’ajout de pièces jointes d'un tel volume). Vous devriez donc choisir une méthode différente de stockage à distance.
+151432.713 (5) Email: backup_2023-06-04-0036_Sportopia_f79dc254c849-plugins.zip: email to: dev-e...
+0000.000 (6) Opened log file at time: Mon, 05 Jun 2023 21:07:49 +0000 on http://sportopia.local
+0000.009 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT LAPTOP-MKRRS3VV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.2M | 16M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.021 (6) Free space on disk containing Updraft's temporary directory: 146128.4 MB
+0000.033 (6) Requesting backup semaphore lock (f79dc254c849)
+0000.050 (6) [Info] Lock (updraft_lock_f79dc254c849, wp_options) acquired
+0000.063 (6) This backup task (f79dc254c849) is either complete or began over 2 days ago: ending (1685999269.0338, ) (existing jobdata keys: )
